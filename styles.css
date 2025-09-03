@@ -1,15 +1,14 @@
-/* General Layout */
-body {
+    @import url("./reset.css");
+    body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
 }
-
 .module {
     padding: 2rem 0;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 100px;
     margin: 0 auto;
     padding: 0 1rem;
 }
